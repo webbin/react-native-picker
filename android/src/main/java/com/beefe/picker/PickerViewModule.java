@@ -543,7 +543,7 @@ public class PickerViewModule extends ReactContextBaseJavaModule implements Life
 
     @Override
     public void onHostPause() {
-        dialog = null;
+        // dialog = null;
     }
 
     @Override
